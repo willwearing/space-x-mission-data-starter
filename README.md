@@ -11,7 +11,9 @@
 
 - [ ] Fork the [github repo](https://github.com/mrzacsmith/space-x-mission-data-starter) or the [codesandbox](https://codesandbox.io/s/space-x-mission-data-starter-l7oir)
 - [ ] Install axios dependency
-      In no particular order:
+
+### In no particular order:
+
 - [ ] Use the API address above to GET data
 - [ ] Create components folder
 
